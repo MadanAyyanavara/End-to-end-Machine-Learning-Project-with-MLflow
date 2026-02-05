@@ -378,6 +378,6 @@ For questions or issues:
 
 **[↑ Back to top](#end-to-end-machine-learning-project-with-mlflow)**
 
-Made with ❤️ by the ML Community
+
 
 </div>
