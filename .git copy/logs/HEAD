@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 5cf14409a6b6907ff37887cc4130f2adacf5f2fe entbappy <entbappy73@gmail.com> 1688958130 +0600	clone: from https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.git
+5cf14409a6b6907ff37887cc4130f2adacf5f2fe 511281aa60943437f1420dbecc3d466321af811b entbappy <entbappy73@gmail.com> 1688958760 +0600	commit: folder structure added
+511281aa60943437f1420dbecc3d466321af811b d8139bc5db380fe7aeae2f4edda5596c159951a4 entbappy <entbappy73@gmail.com> 1688959047 +0600	commit: requirements added
+d8139bc5db380fe7aeae2f4edda5596c159951a4 35ae83ed2d67cbba2cf2e1dd3d9baddff95f4e91 entbappy <entbappy73@gmail.com> 1688960040 +0600	commit: exception , logger & utils added
+35ae83ed2d67cbba2cf2e1dd3d9baddff95f4e91 643bdece78cb8e45d75a749a61703a0830dd0337 entbappy <entbappy73@gmail.com> 1689047876 +0600	commit: data ingestion added
+643bdece78cb8e45d75a749a61703a0830dd0337 780258e047b3e3c30d5447f8e7f6d72343c46fb5 entbappy <entbappy73@gmail.com> 1689047934 +0600	commit: data ingestion added
+780258e047b3e3c30d5447f8e7f6d72343c46fb5 b8e1267408fb2eb65e7384ead35a67063ff5fe00 entbappy <entbappy73@gmail.com> 1689047976 +0600	commit: data ingestion added
+b8e1267408fb2eb65e7384ead35a67063ff5fe00 22e7d2015fe807eed3015e907eb92f3be3f4051f entbappy <entbappy73@gmail.com> 1689049490 +0600	commit: data validation added
+22e7d2015fe807eed3015e907eb92f3be3f4051f c1581e443f0425b3b5f8a162ee73c579d98578ee entbappy <entbappy73@gmail.com> 1689085078 +0600	commit: model trainer added
+c1581e443f0425b3b5f8a162ee73c579d98578ee 12ac0c6c8a622e4130979018ffac01fd1b63929b entbappy <entbappy73@gmail.com> 1689086476 +0600	commit: model evalation and mlflow added
+12ac0c6c8a622e4130979018ffac01fd1b63929b a59fa9d41a0ce5ecee92718c401d4eb1a438c7d4 entbappy <entbappy73@gmail.com> 1689133640 +0600	commit: readme updated
+a59fa9d41a0ce5ecee92718c401d4eb1a438c7d4 743325e86ca193b6c8e26ca5de64f9a44b14721f entbappy <entbappy73@gmail.com> 1689134705 +0600	commit: cicd added
+743325e86ca193b6c8e26ca5de64f9a44b14721f d884977faa5d82910930c919ce93679434cab19e entbappy <entbappy73@gmail.com> 1689134859 +0600	commit: updated
+d884977faa5d82910930c919ce93679434cab19e e84d69a778ab4db46d5795620ac836724a3e53e7 entbappy <entbappy73@gmail.com> 1689135448 +0600	commit: updated
+e84d69a778ab4db46d5795620ac836724a3e53e7 8c81bab1f4b63636107bb56ef4df42756b3f10d5 entbappy <entbappy73@gmail.com> 1689136134 +0600	commit: updated
