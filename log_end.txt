@@ -1,0 +1,20 @@
+Downloading beautifulsoup4-4.14.3-py3-none-any.whl (107 kB)
+Downloading soupsieve-2.8.3-py3-none-any.whl (37 kB)
+Downloading defusedxml-0.7.1-py2.py3-none-any.whl (25 kB)
+Downloading fqdn-1.5.1-py3-none-any.whl (9.1 kB)
+Downloading isoduration-20.11.0-py3-none-any.whl (11 kB)
+Downloading arrow-1.4.0-py3-none-any.whl (68 kB)
+Downloading jupyterlab_pygments-0.3.0-py3-none-any.whl (15 kB)
+Downloading mako-1.3.10-py3-none-any.whl (78 kB)
+Downloading pure_eval-0.2.3-py3-none-any.whl (11 kB)
+Downloading pycparser-3.0-py3-none-any.whl (48 kB)
+Downloading rfc3339_validator-0.1.4-py2.py3-none-any.whl (3.5 kB)
+Downloading uri_template-1.3.0-py3-none-any.whl (11 kB)
+Downloading wcwidth-0.6.0-py3-none-any.whl (94 kB)
+Building wheels for collected packages: mlProject
+  Building editable for mlProject (pyproject.toml): started
+  Building editable for mlProject (pyproject.toml): finished with status 'done'
+  Created wheel for mlProject: filename=mlproject-0.0.0-0.editable-py3-none-any.whl size=3386 sha256=366f6094614ddd098f823ce2acc9c9658deeb4711a1fd550a08d30149958a4e1
+  Stored in directory: C:\Users\Madan A\AppData\Local\Temp\pip-ephem-wheel-cache-sa68lnyi\wheels\86\1e\98\31fd5854a3d182b6f526157a65304508cfed997db8167d09ff
+Successfully built mlProject
+Installing collected packages: webencodings, pywin32, pytz, pure-eval, mlProject, huey, fastjsonschema, zipp, websocket-client, webcolors, wcwidth, waitress, urllib3, uri-template, tzdata, typing-extensions, types-PyYAML, traitlets, tqdm, tornado, tinycss2, threadpoolctl, sqlparse, soupsieve, smmap, six, setuptools, send2trash, rpds-py, rfc3986-validator, pyzmq, pyYAML, pywinpty, python-json-logger, python-dotenv, python-box, pyparsing, pygments, pycparser, pyasn1, pyarrow, psutil, protobuf, prometheus-client, platformdirs, pillow, parso, pandocfilters, packaging, numpy, nest-asyncio, mistune, Mako, lark, kiwisolver, jupyterlab-pygments, jsonpointer, json5, joblib, idna, h11, greenlet, graphql-core, fqdn, fonttools, executing, defusedxml, decorator, debugpy, cycler, comm, cloudpickle, charset_normalizer, certifi, cachetools, bleach, babel, attrs, async-lru, asttokens, annotated-types, annotated-doc, uvicorn, typing-inspection, terminado, stack_data, sqlalchemy, scipy, rsa, rfc3987-syntax, rfc3339-validator, requests, referencing, python-dateutil, pydantic-core, pyasn1-modules, prompt_toolkit, prettytable, opentelemetry-proto, matplotlib-inline, jupyter-core, jedi, ipython-pygments-lexers, importlib_metadata, httpcore, graphql-relay, gitdb, ensure, contourpy, cffi, beautifulsoup4, anyio, starlette, scikit-learn, pydantic, pandas, opentelemetry-api, matplotlib, jupyter-server-terminals, jupyter-client, jsonschema-specifications, ipython, httpx, graphene, gitpython, Flask-Cors, docker, cryptography, arrow, argon2-cffi-bindings, alembic, skops, opentelemetry-semantic-conventions, jsonschema, isoduration, ipykernel, google-auth, fastapi, argon2-cffi, opentelemetry-sdk, nbformat, databricks-sdk, nbclient, mlflow-tracing, mlflow-skinny, jupyter-events, nbconvert, mlflow, jupyter-server, notebook-shim, jupyterlab-server, jupyter-lsp, jupyterlab, notebook
