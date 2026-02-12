@@ -2,6 +2,7 @@
 name = "ml-project"
 version = "0.1.0"
 description = "Machine Learning Project"
+readme = "README.md"
 authors = [
     {name = "MadanAyyanavara", email = "entbappy73@gmail.com"}
 ]
